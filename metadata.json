@@ -1,0 +1,6 @@
+{
+  "name": "DesignPro - Product Design Education Platform",
+  "description": "Transformative programs empowering emerging product designers with cutting-edge expertise and global vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
